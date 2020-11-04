@@ -1,0 +1,54 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/viktor/Рабочий стол/OptSoft/OptSoft/labs/lab1/lib/calculate.rb": {
+        "lines": [
+          1,
+          1,
+          7,
+          null,
+          6,
+          null,
+          2,
+          null,
+          2,
+          null,
+          2,
+          null,
+          null,
+          6,
+          null,
+          null,
+          1,
+          2,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1604513631
+  }
+}
